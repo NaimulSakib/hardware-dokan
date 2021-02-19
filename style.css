@@ -1,3 +1,21 @@
-.navbar-brand{
-    
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #df1010;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #a81e1e 0%, #e22a11 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
 }
